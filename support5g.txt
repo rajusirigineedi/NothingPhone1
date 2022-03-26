@@ -1,2 +1,3 @@
 samsung supports 5g
 redmi also supports
+hello 5g
