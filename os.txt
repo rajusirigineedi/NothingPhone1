@@ -1,2 +1,3 @@
 this is v1 os
 this is v2 os
+    - color : red
